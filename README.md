@@ -8,10 +8,42 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue?logo=postgresql)](https://www.postgresql.org)
 [![Docker](https://img.shields.io/badge/Docker-Compose-blue?logo=docker)](https://www.docker.com)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Actively_Building-orange)](https://github.com/Vishallakshmikanthan/CRM)
+[![Construction](https://img.shields.io/badge/State-Under_Construction-yellow)](https://github.com/Vishallakshmikanthan/CRM)
 
-**A modern, full-featured Customer Relationship Management platform built with enterprise-grade technologies**
+**🔥 A next-generation, full-featured Customer Relationship Management platform forged with cutting-edge enterprise technologies**
+
+---
+
+### 🛠️ Built With
+
+**Architected by [Vishal Lakshmikanthan](https://github.com/Vishallakshmikanthan)**
+
+Powered by next-gen AI tooling:
+- **Nemotron 3 Ultra 550B A55B** - Advanced reasoning & code generation
+- **GLM 5.2** - Large language model capabilities
+- **Cline** - Intelligent code assistance
+- **Antigravity** - Zero-gravity development experience
+- **Devin Desktop** - Autonomous software engineering
+- **VS Code** - Ultimate development environment
+- **Trae** - Next-level AI-powered development
+
+> *This project represents the bleeding edge of AI-assisted software development, combining human creativity with machine intelligence to build enterprise-grade solutions.*
 
 </div>
+
+---
+
+## ⚠️ Project Status
+
+> **🚧 UNDER ACTIVE CONSTRUCTION**  
+> This CRM system is currently in active development. Features are being added rapidly, and the codebase is evolving daily. Expect breaking changes as we push the boundaries of what's possible with modern CRM platforms.
+
+**Current Phase:** Production Polish & Optimization  
+**Last Updated:** July 2026  
+**Completion:** ~85% (Core features complete, polish in progress)
+
+---
 
 ---
 
